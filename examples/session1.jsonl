@@ -1,0 +1,9 @@
+{"action":"init","teams":["Lions","Tigers","Bears","Wolves"]}
+{"action":"schedule"}
+{"action":"register","match_id":"M01-1","home_goals":2,"away_goals":1}
+{"action":"register","match_id":"M02-1","home_goals":0,"away_goals":0}
+{"action":"standings","through_round":1}
+{"action":"standings"}
+{"action":"correct","match_id":"M01-1","home_goals":3,"away_goals":3}
+{"action":"revoke","match_id":"M01-1"}
+{"action":"standings"}
