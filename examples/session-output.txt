@@ -1,0 +1,9 @@
+{"ok":true,"teams":["A","B","C"]}
+{"ok":true,"teams":["A","B","C"],"matches":[{"id":"M1","round":1,"home":"B","away":"C","played":false},{"id":"M2","round":2,"home":"A","away":"B","played":false},{"id":"M3","round":3,"home":"C","away":"A","played":false}]}
+{"ok":true}
+{"ok":true,"standings":[{"team":"A","played":1,"wins":1,"draws":0,"losses":0,"goals_for":2,"goals_against":1,"goal_difference":1,"points":3},{"team":"C","played":0,"wins":0,"draws":0,"losses":0,"goals_for":0,"goals_against":0,"goal_difference":0,"points":0},{"team":"B","played":1,"wins":0,"draws":0,"losses":1,"goals_for":1,"goals_against":2,"goal_difference":-1,"points":0}]}
+{"ok":true,"standings":[{"team":"A","played":0,"wins":0,"draws":0,"losses":0,"goals_for":0,"goals_against":0,"goal_difference":0,"points":0},{"team":"B","played":0,"wins":0,"draws":0,"losses":0,"goals_for":0,"goals_against":0,"goal_difference":0,"points":0},{"team":"C","played":0,"wins":0,"draws":0,"losses":0,"goals_for":0,"goals_against":0,"goal_difference":0,"points":0}]}
+{"ok":true}
+{"ok":true,"standings":[{"team":"A","played":1,"wins":0,"draws":1,"losses":0,"goals_for":0,"goals_against":0,"goal_difference":0,"points":1},{"team":"B","played":1,"wins":0,"draws":1,"losses":0,"goals_for":0,"goals_against":0,"goal_difference":0,"points":1},{"team":"C","played":0,"wins":0,"draws":0,"losses":0,"goals_for":0,"goals_against":0,"goal_difference":0,"points":0}]}
+{"ok":true}
+{"ok":true,"standings":[{"team":"A","played":0,"wins":0,"draws":0,"losses":0,"goals_for":0,"goals_against":0,"goal_difference":0,"points":0},{"team":"B","played":0,"wins":0,"draws":0,"losses":0,"goals_for":0,"goals_against":0,"goal_difference":0,"points":0},{"team":"C","played":0,"wins":0,"draws":0,"losses":0,"goals_for":0,"goals_against":0,"goal_difference":0,"points":0}]}

@@ -1,0 +1,9 @@
+{"op":"init","teams":["A","B","C"]}
+{"op":"schedule"}
+{"op":"register","match_id":"M2","home_goals":2,"away_goals":1}
+{"op":"standings"}
+{"op":"standings","through_round":1}
+{"op":"correct","match_id":"M2","home_goals":0,"away_goals":0}
+{"op":"standings"}
+{"op":"revoke","match_id":"M2"}
+{"op":"standings"}
